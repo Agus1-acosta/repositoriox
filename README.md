@@ -1,2 +1,2 @@
-# repositoriox
-primer repositorio creado
+# repositorio
+bienvenidos
