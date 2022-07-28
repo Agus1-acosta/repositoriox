@@ -1,0 +1,7 @@
+- informe de la forma de pago que acepta el local gastronomico, que utiliza la presente app. 
+ejemplo: si utiliza medios de pago electronicos(cuales?) y si solo se abona en efectivo 
+- que indorme si el local gastronomico se encuentra aderido a promociones con tarjetas bancarias en caso de aceptar dicha forma de pago.
+- como usuario me gustaria que tenga detallado una variedad de menus, ejemplo veganos-vegetariano- celiacos 
+- como usuario quiero estar informado del tiempo de demora de la orden solicitada como asi tambien la posinbilidad de su cancelacion o modificacion del pedido 
+- esta buena la opcion de reclamo, tambien se podria añadir una seccion de calificacion del local gastronomico, don de se califique el lugar en cuanto a calidad de comida, atencion.
+			

@@ -1,0 +1,13 @@
+diferencia entre vision funcion:
+mision: objetivo que se espera cumplir en el presente.
+
+vision:es a largo plazo pero algo ambicioso- define el por que o el quien del producto final.
+
+en vase a la vision creamos la mision depende del punto al que allamos llegado 
+
+
+riesgos de requerimientos : 
+pensar que pasa cuando tenemos problemas en la app.
+fallas del programa o aplicacion. huecos o fallas que interfieran con parte del servicio que ofrece.
+
+

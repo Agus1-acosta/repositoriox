@@ -1,0 +1,26 @@
+pasos para abrir una caja cargar un archivo y guardar un archivo:
+
+git add= agregar un archivo a una caja
+git add . = agrega todos los archivos
+git status = te dice donde estas parado( en que archivo o carpeta)
+git commit = para cerrar la caja
+
+git commit-m"añadir mensaje"
+
+git push = envia los cambios al repositorio (hay que especificarle la rama a la que tiene que ir) git push origin main.
+
+
+para usar la  consola:
+
+-cd (mas el nombre de la carpeta) para abribr una carpeta
+para abrir una app hay que poner nombre/comdando
+- ejemplo: git add o git commit
+
+- -m = para escribir texto
+
+nombre del archivo /./ nombre del repositorio
+
+
+git-- help (muestra todos los comandos de git en la consola )
+
+
